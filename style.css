@@ -1,0 +1,54 @@
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+.bodyimg{
+    display: flex;
+    text-align: center;
+}
+
+.head{
+    position: absolute;
+    top : 25%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+}
+.header{
+    background-color: black;
+}
+.header h1{
+    color: aqua;
+    text-align: center;
+    text-decoration: white;
+}
+.menu{
+    text-align: right;
+}
+.header{
+    position: relative;
+}
+.head h1{
+    text-align: center;
+}
+img{
+    border-style:inset;
+}
+.uplayer{
+    position: relative;
+}
+.gridup{
+    display:flex;
+     justify-content: space-between;
+    
+
+}
+.griddown{
+    display: flex;
+    justify-content: space-between;
+}
+.ore hr{
+text-align: left;
+
+}
